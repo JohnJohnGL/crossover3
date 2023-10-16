@@ -1,0 +1,292 @@
+.elementor-kit-7{--e-global-color-primary:#292929;--e-global-color-secondary:#EBEBEB;--e-global-color-text:#595C5D;--e-global-color-accent:#00A7CE;--e-global-color-3b2488fa:#6EC1E4;--e-global-color-42dd2486:#000;--e-global-color-6b1130c5:#FFF;--e-global-color-142d8b4e:#007895;--e-global-color-d429d99:#007398;--e-global-color-6348d97:#F8485E;--e-global-color-fb8dd5f:#292929;--e-global-color-eaca5f7:#BEBEBE;--e-global-color-10e9586:#E9EFF0;--e-global-color-c7d69e1:#EDF2F3;--e-global-color-c91cf8c:#F3F6F8;--e-global-color-0e0d4ba:#595C5D;--e-global-color-1cd7039:#EBEBEB;--e-global-color-ee6d959:#E8485E;--e-global-color-730b1c1:#F6F5F5;--e-global-color-71bc5e2:#5A5A5A;--e-global-color-9642c6a:#004D66;--e-global-color-6c5527e:#00BFB2;--e-global-typography-primary-font-family:"Rubik";--e-global-typography-primary-font-size:60px;--e-global-typography-primary-font-weight:300;--e-global-typography-primary-text-transform:uppercase;--e-global-typography-primary-line-height:1.2em;--e-global-typography-secondary-font-family:"Rubik";--e-global-typography-secondary-font-size:40px;--e-global-typography-secondary-font-weight:400;--e-global-typography-secondary-text-transform:uppercase;--e-global-typography-secondary-line-height:1.2em;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-size:18px;--e-global-typography-text-font-weight:400;--e-global-typography-text-text-transform:none;--e-global-typography-text-line-height:1.6em;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;--e-global-typography-accent-text-transform:none;--e-global-typography-870a097-font-family:"Rubik";--e-global-typography-870a097-font-size:40px;--e-global-typography-870a097-font-weight:300;--e-global-typography-870a097-text-transform:uppercase;--e-global-typography-870a097-line-height:1.2em;--e-global-typography-e2f4541-font-family:"Rubik";--e-global-typography-e2f4541-font-size:18px;--e-global-typography-e2f4541-font-weight:500;--e-global-typography-e2f4541-text-transform:none;--e-global-typography-e2f4541-line-height:1.2em;--e-global-typography-98a3f7e-font-family:"Rubik";--e-global-typography-98a3f7e-font-size:20px;--e-global-typography-98a3f7e-font-weight:bold;--e-global-typography-98a3f7e-text-transform:none;--e-global-typography-98a3f7e-line-height:1.2em;--e-global-typography-20cc3b6-font-family:"Rubik";--e-global-typography-20cc3b6-font-size:60px;--e-global-typography-20cc3b6-font-weight:300;--e-global-typography-20cc3b6-text-transform:uppercase;--e-global-typography-20cc3b6-line-height:1.2em;--e-global-typography-12c42c9-font-family:"Rubik";--e-global-typography-12c42c9-font-size:40px;--e-global-typography-12c42c9-font-weight:300;--e-global-typography-12c42c9-text-transform:none;--e-global-typography-12c42c9-line-height:1.2em;--e-global-typography-9286489-font-family:"Roboto";--e-global-typography-9286489-font-size:16px;--e-global-typography-9286489-font-weight:400;--e-global-typography-9286489-text-transform:none;--e-global-typography-9286489-font-style:normal;--e-global-typography-9286489-text-decoration:none;--e-global-typography-9286489-line-height:24px;--e-global-typography-9286489-letter-spacing:-0.45px;--e-global-typography-a5ed8e8-font-family:"Rubik";--e-global-typography-a5ed8e8-font-size:14px;--e-global-typography-a5ed8e8-font-weight:500;--e-global-typography-a5ed8e8-text-transform:none;--e-global-typography-a5ed8e8-font-style:normal;--e-global-typography-a5ed8e8-text-decoration:none;--e-global-typography-a5ed8e8-line-height:1em;--e-global-typography-cc9840b-font-family:"Rubik";--e-global-typography-cc9840b-font-size:18px;--e-global-typography-cc9840b-font-weight:400;--e-global-typography-cc9840b-text-transform:uppercase;--e-global-typography-9712a8b-font-family:"Rubik";--e-global-typography-9712a8b-font-size:160px;--e-global-typography-9712a8b-font-weight:300;--e-global-typography-9712a8b-text-transform:uppercase;--e-global-typography-9712a8b-line-height:1em;--e-global-typography-44fd6d5-font-family:"Roboto";--e-global-typography-44fd6d5-font-size:28px;--e-global-typography-44fd6d5-font-weight:400;--e-global-typography-44fd6d5-text-transform:none;--e-global-typography-44fd6d5-line-height:1.6em;--e-global-typography-84e6ece-font-family:"Rubik";--e-global-typography-84e6ece-font-size:100px;--e-global-typography-84e6ece-font-weight:300;--e-global-typography-84e6ece-text-transform:none;--e-global-typography-84e6ece-line-height:1.2em;--e-global-typography-e934057-font-family:"Rubik";--e-global-typography-e934057-font-size:60px;--e-global-typography-e934057-font-weight:300;--e-global-typography-e934057-text-transform:none;--e-global-typography-e934057-line-height:1.2em;--e-global-typography-90e6e91-font-family:"Rubik";--e-global-typography-90e6e91-font-size:21px;--e-global-typography-90e6e91-font-weight:300;--e-global-typography-90e6e91-text-transform:none;--e-global-typography-90e6e91-line-height:1.6em;--e-global-typography-6580da1-font-family:"Roboto";--e-global-typography-6580da1-font-size:18px;--e-global-typography-6580da1-font-weight:600;--e-global-typography-6580da1-text-transform:none;--e-global-typography-6580da1-line-height:1.6em;--e-global-typography-fdd374f-font-family:"Roboto";--e-global-typography-fdd374f-font-size:16px;--e-global-typography-fdd374f-font-weight:400;--e-global-typography-fdd374f-text-transform:none;--e-global-typography-fdd374f-line-height:1.3em;--e-global-typography-6ccc34a-font-family:"Rubik";--e-global-typography-6ccc34a-font-size:100px;--e-global-typography-6ccc34a-font-weight:300;--e-global-typography-6ccc34a-text-transform:none;--e-global-typography-6ccc34a-line-height:1.2em;--e-global-typography-eb2ba59-font-family:"Roboto";--e-global-typography-eb2ba59-font-size:18px;--e-global-typography-eb2ba59-font-weight:300;--e-global-typography-eb2ba59-text-transform:none;--e-global-typography-eb2ba59-line-height:1.6em;--e-global-typography-08f4133-font-family:"Roboto";--e-global-typography-08f4133-font-size:32px;--e-global-typography-08f4133-font-weight:300;--e-global-typography-08f4133-text-transform:none;--e-global-typography-08f4133-font-style:italic;--e-global-typography-08f4133-line-height:1.3em;--e-global-typography-597eaec-font-family:"Roboto";--e-global-typography-597eaec-font-size:18px;--e-global-typography-597eaec-font-weight:400;--e-global-typography-597eaec-text-transform:none;--e-global-typography-597eaec-line-height:1.6em;--e-global-typography-24b45ef-font-family:"Rubik";--e-global-typography-24b45ef-font-size:32px;--e-global-typography-24b45ef-font-weight:300;--e-global-typography-24b45ef-text-transform:none;--e-global-typography-24b45ef-line-height:1.2em;--e-global-typography-ef54f1e-font-family:"Roboto";--e-global-typography-ef54f1e-font-size:18px;--e-global-typography-ef54f1e-font-weight:500;--e-global-typography-ef54f1e-text-transform:none;--e-global-typography-ef54f1e-line-height:1.6em;--e-global-typography-e02e592-font-family:"Rubik";--e-global-typography-e02e592-font-size:18px;--e-global-typography-e02e592-font-weight:500;--e-global-typography-e02e592-text-transform:none;--e-global-typography-e02e592-letter-spacing:0px;--e-global-typography-df4fdb4-font-family:"Roboto";--e-global-typography-df4fdb4-font-size:32px;--e-global-typography-df4fdb4-font-weight:300;--e-global-typography-df4fdb4-text-transform:none;--e-global-typography-df4fdb4-line-height:1.2em;--e-global-typography-431bd51-font-family:"Rubik";--e-global-typography-431bd51-font-size:20px;--e-global-typography-431bd51-font-weight:500;--e-global-typography-431bd51-text-transform:none;--e-global-typography-431bd51-line-height:1.2em;--e-global-typography-1342f71-font-family:"Rubik";--e-global-typography-1342f71-font-size:28px;--e-global-typography-1342f71-font-weight:500;--e-global-typography-1342f71-text-transform:uppercase;--e-global-typography-1342f71-line-height:1.2em;--e-global-typography-02733d6-font-family:"Roboto";--e-global-typography-02733d6-font-size:16px;--e-global-typography-02733d6-font-weight:bold;--e-global-typography-02733d6-text-transform:none;--e-global-typography-02733d6-line-height:1.6em;--e-global-typography-f8ab563-font-family:"Rubik";--e-global-typography-f8ab563-font-size:28px;--e-global-typography-f8ab563-font-weight:500;--e-global-typography-f8ab563-text-transform:none;--e-global-typography-168448a-font-family:"Rubik";--e-global-typography-168448a-font-size:30px;--e-global-typography-168448a-font-weight:300;--e-global-typography-168448a-text-transform:uppercase;--e-global-typography-168448a-line-height:1.2em;--e-global-typography-da8c6a1-font-family:"Roboto";--e-global-typography-da8c6a1-font-size:14px;--e-global-typography-da8c6a1-font-weight:300;--e-global-typography-da8c6a1-text-transform:none;--e-global-typography-da8c6a1-line-height:1.6em;--e-global-typography-9a38f1a-font-family:"Rubik";--e-global-typography-9a38f1a-font-size:26px;--e-global-typography-9a38f1a-font-weight:400;--e-global-typography-9a38f1a-text-transform:none;--e-global-typography-9a38f1a-line-height:1.6em;--e-global-typography-ffa1acd-font-family:"Rubik";--e-global-typography-ffa1acd-font-size:26px;--e-global-typography-ffa1acd-font-weight:500;--e-global-typography-ffa1acd-text-transform:none;--e-global-typography-ffa1acd-line-height:1.6em;--e-global-typography-ef7b2c3-font-family:"Rubik";--e-global-typography-ef7b2c3-font-size:18px;--e-global-typography-ef7b2c3-font-weight:300;--e-global-typography-ef7b2c3-text-transform:none;--e-global-typography-ef7b2c3-line-height:1.6em;--e-global-typography-b5a7611-font-family:"Rubik";--e-global-typography-b5a7611-font-size:20px;--e-global-typography-b5a7611-font-weight:400;--e-global-typography-b5a7611-text-transform:uppercase;--e-global-typography-b5a7611-line-height:1.2em;--e-global-typography-c71dace-font-family:"Rubik";--e-global-typography-c71dace-font-size:20px;--e-global-typography-c71dace-font-weight:500;--e-global-typography-c71dace-text-transform:uppercase;--e-global-typography-c71dace-line-height:1.2em;--e-global-typography-0996fc4-font-family:"Roboto";--e-global-typography-0996fc4-font-size:20px;--e-global-typography-0996fc4-font-weight:600;--e-global-typography-0996fc4-text-transform:none;--e-global-typography-0996fc4-line-height:1.2em;--e-global-typography-7a5186d-font-family:"Roboto";--e-global-typography-7a5186d-font-size:21px;--e-global-typography-7a5186d-font-weight:300;--e-global-typography-7a5186d-text-transform:none;--e-global-typography-7a5186d-font-style:italic;--e-global-typography-7a5186d-line-height:1.3em;--e-global-typography-b5a6ce8-font-family:"Roboto";--e-global-typography-b5a6ce8-font-size:16px;--e-global-typography-b5a6ce8-font-weight:400;--e-global-typography-b5a6ce8-text-transform:none;--e-global-typography-b5a6ce8-line-height:1.6em;--e-global-typography-419bd6b-font-family:"Roboto";--e-global-typography-419bd6b-font-size:20px;--e-global-typography-419bd6b-font-weight:500;--e-global-typography-419bd6b-text-transform:none;--e-global-typography-419bd6b-line-height:1.2em;--e-global-typography-0080bc9-font-family:"Roboto";--e-global-typography-0080bc9-font-size:18px;--e-global-typography-0080bc9-font-weight:300;--e-global-typography-0080bc9-text-transform:none;--e-global-typography-0080bc9-line-height:1.6em;--e-global-typography-0080bc9-letter-spacing:0.5px;--e-global-typography-4f0e889-font-weight:500;--e-global-typography-4f0e889-text-transform:none;--e-global-typography-ed52174-font-size:40px;--e-global-typography-ed52174-font-weight:bold;--e-global-typography-ed52174-line-height:1.2em;--e-global-typography-9136426-font-size:32px;--e-global-typography-9136426-font-weight:bold;--e-global-typography-9136426-line-height:1.2em;--e-global-typography-7cec260-font-size:28px;--e-global-typography-7cec260-line-height:1.2em;--e-global-typography-8af80b4-font-family:"Rubik";--e-global-typography-8af80b4-font-size:20px;--e-global-typography-8af80b4-font-weight:400;--e-global-typography-8af80b4-text-transform:none;--e-global-typography-8af80b4-line-height:1.6em;--e-global-typography-9d39c02-font-family:"Roboto";--e-global-typography-9d39c02-font-size:15px;--e-global-typography-9d39c02-font-weight:600;--e-global-typography-9d39c02-text-transform:none;--e-global-typography-9d39c02-line-height:1.2em;--e-global-typography-8e2f2fb-font-family:"Roboto";--e-global-typography-8e2f2fb-font-size:20px;--e-global-typography-8e2f2fb-font-weight:normal;--e-global-typography-8e2f2fb-line-height:1.6em;--e-global-typography-ee6ab3f-font-family:"Rubik";--e-global-typography-ee6ab3f-font-size:50px;--e-global-typography-ee6ab3f-font-weight:300;--e-global-typography-ee6ab3f-text-transform:uppercase;--e-global-typography-ee6ab3f-line-height:1.2em;--e-global-typography-0a4739c-font-family:"Roboto";--e-global-typography-0a4739c-font-size:16px;--e-global-typography-0a4739c-font-weight:400;--e-global-typography-0a4739c-text-transform:none;--e-global-typography-0a4739c-font-style:normal;--e-global-typography-0a4739c-text-decoration:none;--e-global-typography-0a4739c-line-height:24px;--e-global-typography-0a4739c-letter-spacing:-0.45px;--e-global-typography-5f54db5-font-family:"Rubik";--e-global-typography-5f54db5-font-size:100px;--e-global-typography-5f54db5-font-weight:300;--e-global-typography-5f54db5-text-transform:none;--e-global-typography-5f54db5-line-height:1.2em;color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );text-transform:var( --e-global-typography-text-text-transform );line-height:var( --e-global-typography-text-line-height );}.elementor-kit-7 a{color:var( --e-global-color-d429d99 );font-size:var( --e-global-typography-4f0e889-font-size );font-weight:var( --e-global-typography-4f0e889-font-weight );text-transform:var( --e-global-typography-4f0e889-text-transform );line-height:var( --e-global-typography-4f0e889-line-height );letter-spacing:var( --e-global-typography-4f0e889-letter-spacing );word-spacing:var( --e-global-typography-4f0e889-word-spacing );}.elementor-kit-7 a:hover{color:#00A7CE;}.elementor-kit-7 h1{color:var( --e-global-color-text );font-size:var( --e-global-typography-ed52174-font-size );font-weight:var( --e-global-typography-ed52174-font-weight );line-height:var( --e-global-typography-ed52174-line-height );letter-spacing:var( --e-global-typography-ed52174-letter-spacing );word-spacing:var( --e-global-typography-ed52174-word-spacing );}.elementor-kit-7 h2{color:var( --e-global-color-text );font-size:var( --e-global-typography-9136426-font-size );font-weight:var( --e-global-typography-9136426-font-weight );line-height:var( --e-global-typography-9136426-line-height );letter-spacing:var( --e-global-typography-9136426-letter-spacing );word-spacing:var( --e-global-typography-9136426-word-spacing );}.elementor-kit-7 h3{color:var( --e-global-color-text );font-size:var( --e-global-typography-7cec260-font-size );line-height:var( --e-global-typography-7cec260-line-height );letter-spacing:var( --e-global-typography-7cec260-letter-spacing );word-spacing:var( --e-global-typography-7cec260-word-spacing );}.elementor-kit-7 h4{color:var( --e-global-color-text );font-size:var( --e-global-typography-b55272b-font-size );line-height:var( --e-global-typography-b55272b-line-height );letter-spacing:var( --e-global-typography-b55272b-letter-spacing );word-spacing:var( --e-global-typography-b55272b-word-spacing );}.elementor-kit-7 h5{color:var( --e-global-color-text );font-size:var( --e-global-typography-0264c39-font-size );line-height:var( --e-global-typography-0264c39-line-height );letter-spacing:var( --e-global-typography-0264c39-letter-spacing );word-spacing:var( --e-global-typography-0264c39-word-spacing );}.elementor-kit-7 h6{color:var( --e-global-color-text );font-size:var( --e-global-typography-814f0e6-font-size );line-height:var( --e-global-typography-814f0e6-line-height );letter-spacing:var( --e-global-typography-814f0e6-letter-spacing );word-spacing:var( --e-global-typography-814f0e6-word-spacing );}.elementor-kit-7 button,.elementor-kit-7 input[type="button"],.elementor-kit-7 input[type="submit"],.elementor-kit-7 .elementor-button{font-family:"Rubik", Sans-serif;font-size:16px;font-weight:500;color:var( --e-global-color-d429d99 );background-color:var( --e-global-color-6b1130c5 );border-style:solid;border-width:2px 2px 2px 2px;border-color:var( --e-global-color-d429d99 );border-radius:100px 100px 100px 100px;}.elementor-kit-7 button:hover,.elementor-kit-7 button:focus,.elementor-kit-7 input[type="button"]:hover,.elementor-kit-7 input[type="button"]:focus,.elementor-kit-7 input[type="submit"]:hover,.elementor-kit-7 input[type="submit"]:focus,.elementor-kit-7 .elementor-button:hover,.elementor-kit-7 .elementor-button:focus{color:var( --e-global-color-6348d97 );border-style:solid;border-width:2px 2px 2px 2px;border-color:var( --e-global-color-6348d97 );border-radius:100px 100px 100px 100px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1200px;}.e-con{--container-max-width:1200px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-kit-7{--e-global-typography-primary-font-size:40px;--e-global-typography-20cc3b6-font-size:40px;--e-global-typography-6ccc34a-font-size:80px;--e-global-typography-431bd51-font-size:18px;--e-global-typography-02733d6-line-height:1.2em;--e-global-typography-ee6ab3f-font-size:40px;--e-global-typography-5f54db5-font-size:90px;font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-kit-7 a{font-size:var( --e-global-typography-4f0e889-font-size );line-height:var( --e-global-typography-4f0e889-line-height );letter-spacing:var( --e-global-typography-4f0e889-letter-spacing );word-spacing:var( --e-global-typography-4f0e889-word-spacing );}.elementor-kit-7 h1{font-size:var( --e-global-typography-ed52174-font-size );line-height:var( --e-global-typography-ed52174-line-height );letter-spacing:var( --e-global-typography-ed52174-letter-spacing );word-spacing:var( --e-global-typography-ed52174-word-spacing );}.elementor-kit-7 h2{font-size:var( --e-global-typography-9136426-font-size );line-height:var( --e-global-typography-9136426-line-height );letter-spacing:var( --e-global-typography-9136426-letter-spacing );word-spacing:var( --e-global-typography-9136426-word-spacing );}.elementor-kit-7 h3{font-size:var( --e-global-typography-7cec260-font-size );line-height:var( --e-global-typography-7cec260-line-height );letter-spacing:var( --e-global-typography-7cec260-letter-spacing );word-spacing:var( --e-global-typography-7cec260-word-spacing );}.elementor-kit-7 h4{font-size:var( --e-global-typography-b55272b-font-size );line-height:var( --e-global-typography-b55272b-line-height );letter-spacing:var( --e-global-typography-b55272b-letter-spacing );word-spacing:var( --e-global-typography-b55272b-word-spacing );}.elementor-kit-7 h5{font-size:var( --e-global-typography-0264c39-font-size );line-height:var( --e-global-typography-0264c39-line-height );letter-spacing:var( --e-global-typography-0264c39-letter-spacing );word-spacing:var( --e-global-typography-0264c39-word-spacing );}.elementor-kit-7 h6{font-size:var( --e-global-typography-814f0e6-font-size );line-height:var( --e-global-typography-814f0e6-line-height );letter-spacing:var( --e-global-typography-814f0e6-letter-spacing );word-spacing:var( --e-global-typography-814f0e6-word-spacing );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-7{--e-global-typography-primary-font-size:40px;--e-global-typography-secondary-font-size:30px;--e-global-typography-870a097-font-size:30px;--e-global-typography-20cc3b6-font-size:40px;--e-global-typography-12c42c9-font-size:30px;--e-global-typography-9712a8b-font-size:60px;--e-global-typography-44fd6d5-font-size:21px;--e-global-typography-84e6ece-font-size:30px;--e-global-typography-e934057-font-size:40px;--e-global-typography-90e6e91-font-size:18px;--e-global-typography-fdd374f-font-size:16px;--e-global-typography-fdd374f-line-height:1.3em;--e-global-typography-6ccc34a-font-size:70px;--e-global-typography-08f4133-font-size:21px;--e-global-typography-597eaec-font-size:16px;--e-global-typography-24b45ef-font-size:28px;--e-global-typography-df4fdb4-font-size:25px;--e-global-typography-1342f71-font-size:25px;--e-global-typography-02733d6-line-height:1.2em;--e-global-typography-f8ab563-font-size:28px;--e-global-typography-168448a-font-size:30px;--e-global-typography-9a38f1a-font-size:21px;--e-global-typography-9a38f1a-line-height:1.3em;--e-global-typography-ef7b2c3-line-height:1.3em;--e-global-typography-7a5186d-font-size:21px;--e-global-typography-b5a6ce8-font-size:16px;--e-global-typography-419bd6b-font-size:20px;--e-global-typography-ee6ab3f-font-size:40px;--e-global-typography-5f54db5-font-size:60px;font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}.elementor-kit-7 a{font-size:var( --e-global-typography-4f0e889-font-size );line-height:var( --e-global-typography-4f0e889-line-height );letter-spacing:var( --e-global-typography-4f0e889-letter-spacing );word-spacing:var( --e-global-typography-4f0e889-word-spacing );}.elementor-kit-7 h1{font-size:var( --e-global-typography-ed52174-font-size );line-height:var( --e-global-typography-ed52174-line-height );letter-spacing:var( --e-global-typography-ed52174-letter-spacing );word-spacing:var( --e-global-typography-ed52174-word-spacing );}.elementor-kit-7 h2{font-size:var( --e-global-typography-9136426-font-size );line-height:var( --e-global-typography-9136426-line-height );letter-spacing:var( --e-global-typography-9136426-letter-spacing );word-spacing:var( --e-global-typography-9136426-word-spacing );}.elementor-kit-7 h3{font-size:var( --e-global-typography-7cec260-font-size );line-height:var( --e-global-typography-7cec260-line-height );letter-spacing:var( --e-global-typography-7cec260-letter-spacing );word-spacing:var( --e-global-typography-7cec260-word-spacing );}.elementor-kit-7 h4{font-size:var( --e-global-typography-b55272b-font-size );line-height:var( --e-global-typography-b55272b-line-height );letter-spacing:var( --e-global-typography-b55272b-letter-spacing );word-spacing:var( --e-global-typography-b55272b-word-spacing );}.elementor-kit-7 h5{font-size:var( --e-global-typography-0264c39-font-size );line-height:var( --e-global-typography-0264c39-line-height );letter-spacing:var( --e-global-typography-0264c39-letter-spacing );word-spacing:var( --e-global-typography-0264c39-word-spacing );}.elementor-kit-7 h6{font-size:var( --e-global-typography-814f0e6-font-size );line-height:var( --e-global-typography-814f0e6-line-height );letter-spacing:var( --e-global-typography-814f0e6-letter-spacing );word-spacing:var( --e-global-typography-814f0e6-word-spacing );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */.elementor-icon {
+    color: #000;
+}
+.mainlink a {
+    color: #007398;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    overflow: hidden;
+    padding-bottom: 8px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+.mainlink a:after {
+    content: '';
+
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 1px;
+
+    border-width: 0 0 2px;
+    border-style: solid;
+}
+
+.elementor-kit-7 .e-container>.elementor-widget>.elementor-widget-container {
+    height: unset;
+}
+
+/* -----Icon-list widget vertical centering of icon---- */
+.wbs-icon-list .elementor-icon-list-item {
+    display: flex;
+    align-items: center;
+}
+
+
+/* -------Popping element------ */
+.wbs-popping-element:hover {
+transition: all .3s linear;
+transform: scale(1.04);
+z-index: 1;
+}
+
+.wbs-popping-element {
+transition: 0.3s ease;
+}
+
+/* -------Neumorphism effect on light grey backgrounds
+------ */
+.neumorphism {
+    
+     -webkit-box-shadow:
+     6px 6px 16px 2px #e8e8e8,
+      -6px -6px 16px 2px #fffefc;
+      
+      -moz-box-shadow: 
+      6px 6px 16px 2px #e8e8e8,
+      -6px -6px 16px 2px #fffefc;
+      
+      box-shadow: 
+      6px 6px 16px 2px #e8e8e8,
+      -6px -6px 16px 2px #fffefc;
+      
+      border-radius: 20px;
+
+
+}
+
+.neumorphism:hover {
+    
+     -webkit-box-shadow:
+     6px 6px 16px 2px #e8e8e8,
+      -6px -6px 16px 2px #fffefc;
+      
+      -moz-box-shadow: 
+      6px 6px 16px 2px #e8e8e8,
+      -6px -6px 16px 2px #fffefc;
+      
+      box-shadow: 
+      12px 12px 32px 2px #ee8e8e8,
+     -12px -12px 32px 2px #fffefc;
+
+      border-radius: 20px;
+
+}
+
+b,
+strong {
+  font-weight: 500; }
+  
+  
+/* hyphens on demand using "&shy;"*/
+html body{
+    hyphens: manual;
+}
+
+/* hide Apply now only burger*/
+@media only screen and (min-width: 1025px) {
+    #main-menu .elementor-nav-menu > li:last-child{
+        display: none;
+    }
+}
+/* read more hover highlight*/
+.elementor-post__read-more:hover{
+    color: #00a7ce !important
+}
+
+/*course explore link highlight*/
+.course-explore-link span:hover{
+    color: #00a7ce !important 
+} 
+  
+/*all coureses explore arrow move*/
+.course-explore-arrow:hover .elementor-button-icon{
+    margin-left: 18px !important;
+    margin-right: -10px !important;
+}
+
+.elementor-button-icon{
+    transition: 1s;
+}
+
+@media only screen and (max-width: 675px){
+    #secondary-menu ul li:first-child{
+        display: none !important;
+    }
+}
+
+/* header firefox fix */
+@media only screen and (min-width: 868px){
+.main-header a{
+    min-width: 230px !important;
+}
+    
+}
+@media only screen and (max-width: 868px){
+.main-header a{
+    min-width: 170px !important;
+}
+    
+}
+
+
+   /* small header sticky*/
+ /* .headersticky div:first-child {
+	min-height: 0px !important;
+	transition: all 1s;
+}
+
+.elementor-5417 .elementor-element.elementor-element-2836669 > .elementor-container {
+transition: all 1s;
+    
+}
+
+.elementor-5417 .elementor-element.elementor-element-2836669 > .elementor-container > .elementor-column > .elementor-widget-wrap {
+	height:46px;
+}
+
+.elementor-5417 .headersticky .elementor-element.elementor-element-0a6e6b0 img {
+	width:57%;
+}
+
+@media only screen and  (max-width: 1024px){
+html body header .elementor-5417 .elementor-element.elementor-element-67463e3 .elementor-nav-menu--main > .elementor-nav-menu > li > .elementor-nav-menu--dropdown, .elementor-5417 .elementor-element.elementor-element-67463e3 .elementor-nav-menu__container.elementor-nav-menu--dropdown{
+	margin-top: -1px !important;
+}
+}
+*//* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: bold;
+	font-display: swap;
+	src: url('https://www.wbscodingschool.com/files/rubik-bold-webfont.eot');
+	src: url('https://www.wbscodingschool.com/files/rubik-bold-webfont.eot?#iefix') format('embedded-opentype'),
+		url('https://www.wbscodingschool.com/files/rubik-bold-webfont.woff2') format('woff2'),
+		url('https://www.wbscodingschool.com/files/rubik-bold-webfont.woff') format('woff'),
+		url('https://www.wbscodingschool.com/files/rubik-bold-webfont.ttf') format('truetype'),
+		url('https://www.wbscodingschool.com/files/rubik-bold-webfont.svg#Rubik') format('svg');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: url('https://www.wbscodingschool.com/files/rubik-light-webfont.eot');
+	src: url('https://www.wbscodingschool.com/files/rubik-light-webfont.eot?#iefix') format('embedded-opentype'),
+		url('https://www.wbscodingschool.com/files/rubik-light-webfont.woff2') format('woff2'),
+		url('https://www.wbscodingschool.com/files/rubik-light-webfont.woff') format('woff'),
+		url('https://www.wbscodingschool.com/files/rubik-light-webfont.ttf') format('truetype'),
+		url('https://www.wbscodingschool.com/files/rubik-light-webfont.svg#Rubik') format('svg');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url('https://www.wbscodingschool.com/files/rubik-medium-webfont.eot');
+	src: url('https://www.wbscodingschool.com/files/rubik-medium-webfont.eot?#iefix') format('embedded-opentype'),
+		url('https://www.wbscodingschool.com/files/rubik-medium-webfont.woff2') format('woff2'),
+		url('https://www.wbscodingschool.com/files/rubik-medium-webfont.woff') format('woff'),
+		url('https://www.wbscodingschool.com/files/rubik-medium-webfont.ttf') format('truetype'),
+		url('https://www.wbscodingschool.com/files/rubik-medium-webfont.svg#Rubik') format('svg');
+}
+@font-face {
+	font-family: 'Rubik';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('https://www.wbscodingschool.com/files/rubik-regular-webfont.eot');
+	src: url('https://www.wbscodingschool.com/files/rubik-regular-webfont.eot?#iefix') format('embedded-opentype'),
+		url('https://www.wbscodingschool.com/files/rubik-regular-webfont.woff2') format('woff2'),
+		url('https://www.wbscodingschool.com/files/rubik-regular-webfont.woff') format('woff'),
+		url('https://www.wbscodingschool.com/files/rubik-regular-webfont.ttf') format('truetype'),
+		url('https://www.wbscodingschool.com/files/rubik-regular-webfont.svg#Rubik') format('svg');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: bold;
+	font-display: swap;
+	src: url('https://www.wbscodingschool.com/files/roboto-bold-webfont.eot');
+	src: url('https://www.wbscodingschool.com/files/roboto-bold-webfont.eot?#iefix') format('embedded-opentype'),
+		url('https://www.wbscodingschool.com/files/roboto-bold-webfont.woff2') format('woff2'),
+		url('https://www.wbscodingschool.com/files/roboto-bold-webfont.woff') format('woff'),
+		url('https://www.wbscodingschool.com/files/roboto-bold-webfont.ttf') format('truetype'),
+		url('https://www.wbscodingschool.com/files/roboto-bold-webfont.svg#Roboto') format('svg');
+}
+@font-face {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: url('https://www.wbscodingschool.com/files/roboto-light-webfont.eot');
+	src: url('https://www.wbscodingschool.com/files/roboto-light-webfont.eot?#iefix') format('embedded-opentype'),
+		url('https://www.wbscodingschool.com/files/roboto-light-webfont.woff2') format('woff2'),
+		url('https://www.wbscodingschool.com/files/roboto-light-webfont.woff') format('woff'),
+		url('https://www.wbscodingschool.com/files/roboto-light-webfont.ttf') format('truetype'),
+		url('https://www.wbscodingschool.com/files/roboto-light-webfont.svg#Roboto') format('svg');
+}
+@font-face {
+	font-family: 'Roboto';
+	font-style: italic;
+	font-weight: 300;
+	font-display: swap;
+	src: url('https://www.wbscodingschool.com/files/roboto-lightitalic-webfont.eot');
+	src: url('https://www.wbscodingschool.com/files/roboto-lightitalic-webfont.eot?#iefix') format('embedded-opentype'),
+		url('https://www.wbscodingschool.com/files/roboto-lightitalic-webfont.woff2') format('woff2'),
+		url('https://www.wbscodingschool.com/files/roboto-lightitalic-webfont.woff') format('woff'),
+		url('https://www.wbscodingschool.com/files/roboto-lightitalic-webfont.ttf') format('truetype'),
+		url('https://www.wbscodingschool.com/files/roboto-lightitalic-webfont.svg#Roboto') format('svg');
+}
+@font-face {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url('https://www.wbscodingschool.com/files/roboto-medium-webfont.eot');
+	src: url('https://www.wbscodingschool.com/files/roboto-medium-webfont.eot?#iefix') format('embedded-opentype'),
+		url('https://www.wbscodingschool.com/files/roboto-medium-webfont.woff2') format('woff2'),
+		url('https://www.wbscodingschool.com/files/roboto-medium-webfont.woff') format('woff'),
+		url('https://www.wbscodingschool.com/files/roboto-medium-webfont.ttf') format('truetype'),
+		url('https://www.wbscodingschool.com/files/roboto-medium-webfont.svg#Roboto') format('svg');
+}
+@font-face {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('https://www.wbscodingschool.com/files/roboto-regular-webfont.eot');
+	src: url('https://www.wbscodingschool.com/files/roboto-regular-webfont.eot?#iefix') format('embedded-opentype'),
+		url('https://www.wbscodingschool.com/files/roboto-regular-webfont.woff2') format('woff2'),
+		url('https://www.wbscodingschool.com/files/roboto-regular-webfont.woff') format('woff'),
+		url('https://www.wbscodingschool.com/files/roboto-regular-webfont.ttf') format('truetype'),
+		url('https://www.wbscodingschool.com/files/roboto-regular-webfont.svg#Roboto') format('svg');
+}
+@font-face {
+	font-family: 'Roboto';
+	font-style: italic;
+	font-weight: 400;
+	font-display: swap;
+	src: url('https://www.wbscodingschool.com/files/Roboto-Italic.eot');
+	src: url('https://www.wbscodingschool.com/files/Roboto-Italic.eot?#iefix') format('embedded-opentype'),
+		url('https://www.wbscodingschool.com/files/Roboto-Italic.woff2') format('woff2'),
+		url('https://www.wbscodingschool.com/files/Roboto-Italic.woff') format('woff'),
+		url('https://www.wbscodingschool.com/files/Roboto-Italic.ttf') format('truetype'),
+		url('https://www.wbscodingschool.com/files/Roboto-Italic.svg#Roboto') format('svg');
+}
+/* End Custom Fonts CSS */

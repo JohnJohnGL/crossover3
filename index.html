@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WBS Coding School</title>
+    <link rel="stylesheet" href="index.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--Bootstrap-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+<body>
+
+    
+ 
+
+    <!-- navBar + hero image -->
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid d-flex justify-content-center">
+            <div class="d-flex justify-content-center">          
+                <a class="navbar-brand" href="#">
+                    <img width='200px' src="https://mlsf03rmjfdn.i.optimole.com/cb:ZQCg.13949/w:768/h:1/q:mauto/ig:avif/f:best/https://www.wbscodingschool.com/wp-content/uploads/standard_colour_cutout_text_icon-1-1.svg" alt="">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Courses
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="#">Data Science</a></li>
+                                <li><a class="dropdown-item" href="#">UX/UI PRODUCT DESIGN</a></li>                                
+                                <li><a class="dropdown-item" href="#">MARKETING ANALYTICS</a></li>
+                                <li><a class="dropdown-item" href="#"></a>WEB & APP DEVELOPMENT</li>
+                                <li><a class="dropdown-item" href="#"></a>View All Courses</li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Financing Options
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="#">All Financing Options</a></li>
+                                <li><a class="dropdown-item" href="#">Bildungsgutschein</a></li>                               
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="#">Campus Berlin</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Career Services</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        About
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="#">WHO WE ARE</a></li>
+                                <li><a class="dropdown-item" href="#">Our Instructors</a></li>                               
+                                <li><a class="dropdown-item" href="#">Our Events</a></li>
+                                <li><a class="dropdown-item" href="#">Work With Us</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Blog</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">
+                                <button type="button" class="btn btn-danger">Apply now</button>
+                            </a>
+                        </li>
+                    </ul>
+                    <!-- <form class="d-flex" role="search"> -->
+                    <!-- <button class="btn btn-outline-success" type="submit">Apply now</button> -->
+                    <!-- </form> -->
+                </div>
+            </div>
+        </div>
+      </nav>
+      <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+        <div class="col-10 col-sm-8 col-lg-6">
+          <img src="https://mlsf03rmjfdn.i.optimole.com/cb:ZQCg.13949/w:auto/h:auto/q:mauto/dpr:2.0/ig:avif/f:best/https://www.wbscodingschool.com/wp-content/uploads/WBS-CODING-SCHOOL-HERO-MOBILE.webp" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
+        </div>
+        <div class="col-lg-6">
+          <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">IGNITE YOUR CAREER IN TECH</h1>
+          <p class="lead">Turn ambition into job-ready skills and become  Web Developer, Data Scientist, UX/UI Product Designer or Marketing Analyst from scratch.</p>
+          <div class="d-grid gap-2 d-md-flex justify-content-md-start mb-5">
+            <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">Explore courses</button>
+            <button type="button" class="btn btn-outline-secondary btn-lg px-4">Apply now</button>
+          </div>
+          <!-- <p>Our graduates now work at:</p> -->
+        </div>
+      </div>
+
+
+    <!-- upcoming free events -->
+    <section>
+      <div class="page2">
+        <div class="page2-title">
+          <h2>UPCOMING FREE EVENTS</h2>
+          <div class="page2-line"></div>
+        </div>
+        <div id="carouselExample" class="carousel slide">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="cards-wrapper">
+                <div class="card">
+                  <img
+                    src="images/carousel1.jpg"
+                    class="card-img-top"
+                    alt="wbs talk"
+                  />
+                  <div class="card-body">
+                    <button>Learn more</button>
+                  </div>
+                </div>
+                <div class="card">
+                  <img
+                    src="images/carousel2.jpg"
+                    class="card-img-top"
+                    alt="wbs new career"
+                  />
+                  <div class="card-body">
+                    <button>Learn more</button>
+                  </div>
+                </div>
+                <div class="card">
+                  <img
+                    src="images/carousel3.jpg"
+                    class="card-img-top"
+                    alt="wbs staff"
+                  />
+                  <div class="card-body">
+                    <button>Learn more</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <div class="cards-wrapper">
+                <div class="card">
+                  <img
+                    src="images/carousel5.jpg"
+                    class="card-img-top"
+                    alt="wbs talk 2"
+                  />
+                  <div class="card-body">
+                    <button>Learn more</button>
+                  </div>
+                </div>
+                <div class="card">
+                  <img
+                    src="images/carousel4.jpg"
+                    class="card-img-top"
+                    alt="wbs staff"
+                  />
+                  <div class="card-body">
+                    <button>Learn more</button>
+                  </div>
+                </div>
+                <div class="card">
+                  <img
+                    src="images/carousel6.jpg"
+                    class="card-img-top"
+                    alt="wbs staff"
+                  />
+                  <div class="card-body">
+                    <button>Learn more</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <button
+            class="carousel-control-prev"
+            type="button"
+            data-bs-target="#carouselExample"
+            data-bs-slide="prev"
+          >
+            <span
+              class="carousel-control-prev-icon"
+              aria-hidden="true"
+              style="background-color: black"
+            ></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button
+            class="carousel-control-next"
+            type="button"
+            data-bs-target="#carouselExample"
+            data-bs-slide="next"
+          >
+            <span
+              class="carousel-control-next-icon"
+              aria-hidden="true"
+              style="background-color: black"
+            ></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- learn Smart, write from the start -->
+
+    <div class="para-container1">
+<p>Here’s how our courses work:</p>
+</div>
+<div class="para-container2">
+<h2>LEARN SMART, RIGHT FROM THE START</h2>
+</div>
+<div class="para-container3">
+    
+    <div class="image-container1">
+        <img src="image1.jpeg" alt="image">
+    </div>
+    
+    <div class="para-container4">
+        <p>
+            <strong class = "title1">
+                Enter at any level with our Primer Preparation Course
+                <br>
+            </strong>
+        </p>
+        <p>
+Starting from scratch? Don’t fret! Before you start, you’ll
+ work through our in-depth Primer Course to make sure
+ <strong>  you and your fellow classmates are all in the same league–
+     </strong> no matter what your background is.
+</p>
+<p>
+    <strong>Live online classes & follow-along walkthroughs
+        <br>
+    </strong>
+</p>
+<p>Be guided to new tools, techniques, and concepts <strong>one click at a time.</strong>
+These live classes consist of <strong>follow-along training,</strong>
+ team projects, individual work, and recap sessions for immediate 
+ feedback. Plus, you can review recordings of all the live classes 
+ as often as you want.
+</p>
+<p>
+<strong class="wbs">
+    Gather real-world experience as you learn <br>
+</strong>
+</p>
+<p>
+    Work on group projects in conditions that simulate those of real 
+    working environments (small, dynamic teams). 
+    It’s like having a safe space to practice everything you 
+    learn to
+    <br>
+<strong>grow your confidence</strong>
+    <strong>master the art of problem-solving and</strong> 
+    <strong>become ready for the job market.</strong>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="para-container5">
+    <h2>BECOME READY FOR THE JOB MARKET, NOT FOR EXAMS</h2>
+</div>
+<div class="para-container6">
+    <h3>Continuously updated curriculum</h3>
+    <p>The tech market is developing at a fast pace. So are we. Get access
+         to industry-relevant tools and learn the skills employers are 
+         looking for today.Don’t waste time on things you won’t need on
+          the actual job.</p>
+</div>
+
+<div class="para-container8">
+    <div class="div1">
+<h3>Forget exams, build a job-ready portfolio instead</h3>
+<p>The better way is for you to work on real projects starting from the 2nd week of your training. This will give you what
+     employers want to see - a rich portfolio that showcases your skills.</p>
+</div>
+<div class="div2">
+    <h3>Ace your job application and interview</h3>
+    <p>You may have the best tech skills on the planet, but they’ll only be the industry’s best-kept secret if you don’t know how to sell them. Get access to proven frameworks and live workshops to optimize your application 
+        documents and interview skills with us. No more guesswork.</p>
+</div>
+
+    
+
+    
+        </div>
+           
+
+
+
+
+    <!-- footer -->
+    <div class="jmiddle">
+      <div class="jsomething">
+        <div class="jtext">
+          <h2>Got Questions?</h2>
+          <p class="jp">How does your background relate to tech? What about transferrable skills, funding options, or career goals? Let us answer all your questions in a quick 10-minute call with one of our career advisors. Simply choose a date and time to schedule a call now:</p>
+          <button class="jButton">Let's talk about your future</button>
+        </div>
+        <img class="jpng" src="./assets/Emily.png" alt="">
+      </div>
+    </div>  
+    <footer class="jfooter">
+      <div class="theArrowJ">
+        <div class="jarrow">&#8593;</div>
+      </div>
+        <div class="jinfo">
+            <div class="jinfo12">
+                <h4 class="jH4">COMPANY</h4>
+                <ul class="jUL">
+                    <li class="jLI">About Us</li>
+                    <li class="jLI">Contact</li>
+                    <li class="jLI">Blog</li>
+                    <li class="jLI">Events</li>
+                    <li class="jLI">Works With Us</li>
+                </ul>
+            </div>
+            <div class="jinfo1">
+                <h4 class="jH4">LEGAL</h4>
+                <ul class="jUL">
+                    <li class="jLI">Imprint</li>
+                    <li class="jLI">Privacy Policy</li>
+                    <li class="jLI">Terms and Conditions</li>
+                    <li class="jLI">Job Guarantee</li>
+                </ul>
+            </div>
+            <div class="jinfo1">
+                <h4 class="jH4">B2B</h3>
+                <ul class="jUL"><li class="jLI">Tech Training</li></ul>
+            </div>
+            <div class="jinfo1">
+                <h4 class="jH4">WBS CODING SCHOOL</h4>
+                <ul class="jUL">
+                    <li class="jLI">Weiskopffstraße 16/17</li>
+                    <li class="jLI">12459 Berlin</li>
+                    <li class="jLI">Germany</li>
+                    <br>
+                    <li class="jLI">Phone +49 30 555789760</li>
+                    <li class="jLI">info@wbscodingschool.com</li>
+                </ul>
+            </div>
+        </div>
+        <div class="jfooterbottom">
+            <div class="jbottomleft">
+              <img decoding="async" data-opt-src="https://mlsf03rmjfdn.i.optimole.com/cb:ZQCg.13949/w:300/h:115/q:mauto/ig:avif/f:best/https://www.wbscodingschool.com/wp-content/uploads/standard_colour_cutout_text_icon-1.svg" width="300" height="115" src="https://mlsf03rmjfdn.i.optimole.com/cb:ZQCg.13949/w:300/h:115/q:mauto/ig:avif/f:best/https://www.wbscodingschool.com/wp-content/uploads/standard_colour_cutout_text_icon-1.svg" class="optimole-lazy-only attachment-medium size-medium wp-image-14795" alt="" data-opt-lazy-loaded="false" data-opt-optimized-width="240" data-opt-optimized-height="92">
+              
+                <!-- <img decoding="async" data-opt-src="https://mlsf03rmjfdn.i.optimole.com/cb:ZQCg.13949/w:18/h:12/q:mauto/ig:avif/f:best/https://www.wbscodingschool.com/wp-content/uploads/flags/eu-flag.svg" class="optimole-lazy-only wpml-ls-flag" src="https://mlsf03rmjfdn.i.optimole.com/cb:ZQCg.13949/w:18/h:12/q:mauto/ig:avif/f:best/https://www.wbscodingschool.com/wp-content/uploads/flags/eu-flag.svg" alt="" width="18" height="12" data-opt-lazy-loaded="true" data-opt-optimized-width="18" data-opt-optimized-height="12">
+                <p>EU</p> -->
+                <div class="dropdown">
+                  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <img decoding="async" data-opt-src="https://mlsf03rmjfdn.i.optimole.com/cb:ZQCg.13949/w:18/h:12/q:mauto/ig:avif/f:best/https://www.wbscodingschool.com/wp-content/uploads/flags/eu-flag.svg" class="optimole-lazy-only wpml-ls-flag" src="https://mlsf03rmjfdn.i.optimole.com/cb:ZQCg.13949/w:18/h:12/q:mauto/ig:avif/f:best/https://www.wbscodingschool.com/wp-content/uploads/flags/eu-flag.svg" alt="" width="18" height="12" data-opt-lazy-loaded="true" data-opt-optimized-width="18" data-opt-optimized-height="12">
+                    <p class="jEU">EU</p>
+                  </button>
+                  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <a class="dropdown-item" href="#">Action</a>
+                    <a class="dropdown-item" href="#">Another action</a>
+                    <a class="dropdown-item" href="#">Something else here</a>
+                  </div>
+                </div>
+                <div class="jlogos">
+                  <a href="#" class="fa fa-facebook"></a>
+                  <a href="#" class="fa fa-instagram"></a>
+                  <a href="#" class="fa fa-linkedin"></a>           
+                  <a href="#" class="fa fa-youtube"></a>   
+                  <a href="#" class="fa fa-twitter"></a>  
+                  <a href="#" class="fa fa-medium"></a>
+                </div>
+            </div>
+        </div>  
+      </footer> 
+    <!-- bootstrap script -->
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.min.js"
+      integrity="sha384-Rx+T1VzGupg4BHQYs2gCW9It+akI2MM/mndMCy36UVfodzcJcF0GGLxZIzObiEfa"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
+
